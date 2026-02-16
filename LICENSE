@@ -1,0 +1,34 @@
+version 3.1.0
+ - Optimize the sending of messages, add support for saving logs and redirecting app logs
+ - rpc adds parsing for long strings. Add a callback for successful injection into the app
+ - Optimize the test code and add exception catching
+
+version 2.1.0
+ - Anti detection by remove the writable executable  memory fragments.
+
+version 2.0.2:
+ - rpc improve.
+ - Add annotations to the rpc method.
+ - AlbatrossServerApi is added.
+
+version 2.0.1:
+ - Support monitoring local changes in the plugin. If recompiled, re-inject.
+ - optimize attach by obtain all java processes of the app based on uid.
+ - Optimize the management of plugins, state switching, and method callbacks.
+ - A series of plugin-related apis have been added.
+
+version 2.0.0:
+ - Clean api is added.
+ - Add plugins to add, delete and modify apis.
+ - Support for system plugins.
+ - Add a new injection mode launch fast for faster speed.
+
+version 1.0.2:
+ - Java rpc call improve.
+
+version 1.0.1:
+ - Compatible with window system.
+ - Do not disable Selinux default.
+
+version 1.0.0:
+ - Initial version.
