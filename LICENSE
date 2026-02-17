@@ -1,4 +1,3 @@
- - Optimize the sending of messages, add support for saving logs and redirecting app logs
  - rpc adds parsing for long strings. Add a callback for successful injection into the app
  - Optimize the test code and add exception catching
 
