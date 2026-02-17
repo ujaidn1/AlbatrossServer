@@ -1,4 +1,3 @@
- - Optimize the test code and add exception catching
 
 version 2.1.0
  - Anti detection by remove the writable executable  memory fragments.
