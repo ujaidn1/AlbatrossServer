@@ -1,4 +1,3 @@
-version 2.0.2:
  - rpc improve.
  - Add annotations to the rpc method.
  - AlbatrossServerApi is added.
