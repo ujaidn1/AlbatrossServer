@@ -1,4 +1,3 @@
- - optimize attach by obtain all java processes of the app based on uid.
  - Optimize the management of plugins, state switching, and method callbacks.
  - A series of plugin-related apis have been added.
 
