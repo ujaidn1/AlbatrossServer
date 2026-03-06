@@ -1,4 +1,3 @@
-
 [中文](README_CN.md)
 
 **AlbatrossServer** is a powerful Android instrumentation framework designed for dynamic code injection, runtime hooking, and real-time monitoring of Android applications. It enables researchers and developers to inject custom logic into target apps via RPC control, allowing fine-grained manipulation and analysis of application behavior at runtime.
