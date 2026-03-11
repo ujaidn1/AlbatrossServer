@@ -1,4 +1,3 @@
-A Python-based interface for:
 - Device discovery and selection
 - Remote control of target Android devices
 - Launching and attaching to target applications
