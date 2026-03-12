@@ -1,4 +1,3 @@
-- Launching and attaching to target applications
 - Managing injection workflows via RPC
 
 ### 2. `albatross-java` (Device-side Core Engine)
