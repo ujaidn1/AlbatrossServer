@@ -1,4 +1,3 @@
-- Managing injection workflows via RPC
 
 ### 2. `albatross-java` (Device-side Core Engine)
 Java/Kotlin code running on the Android device, responsible for:
