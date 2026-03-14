@@ -1,4 +1,3 @@
-### 2. `albatross-java` (Device-side Core Engine)
 Java/Kotlin code running on the Android device, responsible for:
 - Hooking into system processes (e.g., `system_server`) and app processes
 - Loading and executing injected agents
