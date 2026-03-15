@@ -1,4 +1,3 @@
-- Hooking into system processes (e.g., `system_server`) and app processes
 - Loading and executing injected agents
 - Providing lifecycle callbacks for instrumentation plugins
 
