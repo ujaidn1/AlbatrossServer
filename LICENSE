@@ -1,4 +1,3 @@
-- Providing lifecycle callbacks for instrumentation plugins
 
 Includes a **demo plugin** to illustrate how to write Albatross-compatible injectors.
 
