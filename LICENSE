@@ -1,4 +1,3 @@
-Contains essential runtime assets required for injection:
 - Agent `.apk` or `.dex` files
 - Native libraries (`.so`) for various ABIs
 - `albatross_server` binary used on device
