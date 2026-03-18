@@ -1,4 +1,3 @@
-- Native libraries (`.so`) for various ABIs
 - `albatross_server` binary used on device
 
 ---
