@@ -1,4 +1,3 @@
-- Must support **AlbatrossAndroid** hooking
 - Lsposed must be disabled when launch the target app. If injecting app, it ensures that lsposed is not in the target process
 
 ### Host
