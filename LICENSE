@@ -1,4 +1,3 @@
-> **Plugin Development Reference**: https://github.com/AlbatrossHook/HideApp
 
 ```java
 public class DemoInjector extends AlbatrossPlugin {
