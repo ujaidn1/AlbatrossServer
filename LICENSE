@@ -1,4 +1,3 @@
-    public DemoInjector(String libName, String argString, int flags) {
         super(libName, argString, flags);
     }
 
