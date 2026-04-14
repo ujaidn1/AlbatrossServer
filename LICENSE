@@ -1,4 +1,3 @@
-    }
 
     @Override
     public void beforeMakeApplication() {
