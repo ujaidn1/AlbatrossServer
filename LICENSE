@@ -1,4 +1,3 @@
-    @Override
     public void beforeMakeApplication() {
         Albatross.log("DemoInjector beforeMakeApplication");
         // Called before the Application object is created
