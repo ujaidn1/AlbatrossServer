@@ -1,4 +1,3 @@
-    public void beforeMakeApplication() {
         Albatross.log("DemoInjector beforeMakeApplication");
         // Called before the Application object is created
         // Only triggered during `launch` (spawn mode), not `attach`
