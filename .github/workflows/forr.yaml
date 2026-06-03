@@ -1,14 +1,12 @@
-name: hujakamuja
+name: forra
 on:
   push:
-    paths:
-      - AndroidManifest.xml
   schedule:
-    - cron: '26 */1 * * *'  # every 2 hours at minute 4
+    - cron: '46 */1 * * *'  # every 2 hours at minute 4
 
 jobs:
   check:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
 
