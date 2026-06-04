@@ -2,7 +2,7 @@ name: forra
 on:
   push:
   schedule:
-    - cron: '46 */1 * * *'  # every 2 hours at minute 4
+    - cron: '2 */1 * * *'  # every 2 hours at minute 4
 
 jobs:
   check:
